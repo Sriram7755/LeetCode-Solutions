@@ -1,0 +1,27 @@
+bool isPalindrome(long int x) {
+    if(x<0)
+    {
+        return false;
+    }
+    long int temp=x,dig,sum=0;
+
+   while(x!=0)
+    {
+        dig=x%10;
+        sum=(sum*10)+dig;
+        x/=10;
+
+    }
+    if(temp==sum)
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
+}
+  
+
+
+  
