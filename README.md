@@ -67,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+## Array
+|  |
+| ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+## Binary Search
+|  |
+| ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+## Sorting
+|  |
+| ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
