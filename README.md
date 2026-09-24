@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
