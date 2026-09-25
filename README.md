@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0733-flood-fill](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Queue
 |  |
 | ------- |
