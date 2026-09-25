@@ -99,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
