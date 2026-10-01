@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2498-frog-jump-ii](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/2498-frog-jump-ii) |
 ## Graph Theory
