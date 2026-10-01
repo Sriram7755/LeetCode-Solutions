@@ -86,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0733-flood-fill](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [2498-frog-jump-ii](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/2498-frog-jump-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [2498-frog-jump-ii](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/2498-frog-jump-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [2498-frog-jump-ii](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/2498-frog-jump-ii) |
 ## Graph Theory
 |  |
 | ------- |
