@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0146-lru-cache](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -229,4 +230,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
