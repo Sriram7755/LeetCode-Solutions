@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -266,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
