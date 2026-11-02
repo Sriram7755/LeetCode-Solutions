@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0733-flood-fill](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2498-frog-jump-ii](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/2498-frog-jump-ii) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Recursion
 |  |
 | ------- |
