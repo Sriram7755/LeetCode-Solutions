@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0733-flood-fill](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2498-frog-jump-ii](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/2498-frog-jump-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
