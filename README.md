@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0152-maximum-product-subarray](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Sriram7755/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
